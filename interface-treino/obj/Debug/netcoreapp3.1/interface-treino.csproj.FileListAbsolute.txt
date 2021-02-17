@@ -1,0 +1,13 @@
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.exe
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.deps.json
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.runtimeconfig.json
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.runtimeconfig.dev.json
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.dll
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\bin\Debug\netcoreapp3.1\interface-treino.pdb
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.csprojAssemblyReference.cache
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.csproj.CoreCompileInputs.cache
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.AssemblyInfoInputs.cache
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.AssemblyInfo.cs
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.dll
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.pdb
+C:\Users\convencaoinfo10\source\repos\interface-treino\interface-treino\obj\Debug\netcoreapp3.1\interface-treino.genruntimeconfig.cache
